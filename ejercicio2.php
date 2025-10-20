@@ -54,6 +54,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <title>Ejercicio 2 - Figuras</title>
 <style>
 body {
+    
     font-family: Arial, sans-serif;
     background: #f3f4f6;
     display: flex;
